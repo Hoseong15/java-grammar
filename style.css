@@ -1,0 +1,18 @@
+.alertBox{
+  padding: 20px;
+  border-radius: 5px;
+  margin: 5px;
+  text-align: center;
+}
+
+.blue{
+  background-color: deepskyblue;
+}
+
+.yellow{
+  background-color: rgb(238, 238, 154);
+}
+
+.gray{
+  background-color: rgb(160, 156, 156);
+}
